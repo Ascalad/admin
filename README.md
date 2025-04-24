@@ -1,4 +1,4 @@
-# Administration Documents for Node.js
+tab# Administration Documents for Node.js
 
 This repository is formal efforts of the Node.js project that are overseen by the
 [TSC](https://github.com/nodejs/TSC) regarding the less technical aspects of the project.
@@ -15,7 +15,7 @@ Each member of the Node.js organization can ask for funding to travel and spread
 The management of Travel Fund for collaborators is managed by the [OpenJS
 Foundation Cross-Project-Council](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/project-resources/MEMBER_TRAVEL_FUND.md).
 
-## Collaborator Summit
+esc## Collaborator Summit
 
 Every year, Node.js collaborators meet up in one or more Collaborator
 Summit. If you are interested in joining or helping with the
@@ -42,7 +42,7 @@ The currently active members of the [Social Team](./social-team.md):
 
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 
-## Node.js 1Password
+tab## Node.js 1Password
 
 Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source),
 Node.js has been comped a paid version of 1Password, managed by the TSC chair person.
